@@ -20,7 +20,7 @@ Projeto destinado a ensinar a fazer controle de um estoque, exemplo didático qu
 
 Sua responsabilidade:
 - Colocar DTO em todas as classes controller 
-  - O que o DTO faz?
+  - O que o DTO faz?a
 
 - Fazer o DER
 
