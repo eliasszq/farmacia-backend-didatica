@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",    
     "build": "npx tsc"
   },
   "keywords": [],
@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.5",
-    "@types/node": "^24.19.2",
+    "@types/node": "^24.9.2",
     "@types/pg": "^8.15.6",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
